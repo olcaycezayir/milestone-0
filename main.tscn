@@ -1,0 +1,12 @@
+[gd_scene format=3 uid="uid://dwgt5epebdvbg"]
+
+[ext_resource type="Script" uid="uid://2sehflbml3ja" path="res://kare.gd" id="1_ig7tw"]
+
+[node name="Main" type="Node2D" unique_id=661846762]
+
+[node name="Kare" type="ColorRect" parent="." unique_id=1681634754]
+offset_left = 476.0
+offset_top = 224.0
+offset_right = 676.0
+offset_bottom = 424.0
+script = ExtResource("1_ig7tw")
